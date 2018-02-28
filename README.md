@@ -1,3 +1,7 @@
+# React meet-up Feb 18
+
+> the following is a guide on the talk I did using TDD and Wallaby
+
 ## Set up Enzyme
 1. create react app
 
